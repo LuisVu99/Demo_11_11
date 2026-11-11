@@ -1,0 +1,11 @@
+playwright
+pytest-playwright
+pytest
+pytest-html
+pytest-xdist
+pytest-json-report
+PyYAML
+allure-pytest
+Faker
+jsonschema
+python-dotenv
